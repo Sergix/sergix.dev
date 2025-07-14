@@ -5,6 +5,7 @@ subtitle: How does OOP relate to philosophy?
 summary: "Object-oriented programming has a few basic principles: abstraction, inheritance, encapsulation, and polymorphism. These principles are all combined to create objects. But what really are objects?"
 published: 29 May 2020
 last_edit: 29 May 2020
+draft: true
 ---
 
 Object-oriented programming (OOP) is the most well-known paradigm of computer programming. Java, C#, C++, JavaScript, and many other programming languages all have (intrinsically or extrinsically) OOP principles embedded in them. Languages like Ruby and Python even claim that "everything is an object" in their environment.

@@ -39,7 +39,7 @@ My soul rages against its Maker,
 Departing from the path of the garden  
 Into the depths of the earth.  
 
-Raging, raging, raging.  
+Raging, raging.  
 
 My spirit is dead!  
 Die, hope!  
@@ -57,9 +57,9 @@ This vaporous life drowns meaning
 Within the depths of my eyes,  
 Blind to the sunset that approaches.  
 
-Reach! reach, reach,   
-Reach aloft and seize the fading light!    
+Reach!
 
+Reach aloft and seize the fading light!
 Free my captive being.  
 Rupture these shackles!  
 
