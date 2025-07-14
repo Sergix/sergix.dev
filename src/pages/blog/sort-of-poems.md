@@ -2,11 +2,7 @@
 layout: ../../layouts/BlogPost.astro  
 title: Assortment of Untitled Sort-of Poems  
 subtitle: ""  
-summary: "Side-by-side  
-Rocking chairs  
-Laughing softly  
-Making plans,  
-Throwing plans away"  
+summary: "You can only be so much there, then never there again."  
 published: 13 July 2025  
 last_edit: 13 July 2025  
 ---  
@@ -26,7 +22,8 @@ What God has done,
 What it means to be happy.    
   
 <hr>  
-  
+   
+   
 Seek after the Lord,  
 While He can be found  
   
@@ -34,23 +31,27 @@ While He can be found
   
 For God Himself to say it,  
 How could I ignore it?  
-  
-<hr>  
+   
 
+<hr>  
+    
+    
 Side-by-side  
 Rocking chairs  
 Laughing softly  
 Making plans,  
 Throwing plans away  
-
+    
+    
 <hr>
-
+  
+  
 Would it really have changed anything  
 If you had said it somewhat differently?  
 
 I've forgotten how to draw —  
 Sketching plain lines converging,  
-Tacitly turning the wrist to cover the page  
+Tacitly turning the wrist to cover the page,  
 Thoughts that can't be captured otherwise.  
   
 Patiently staining the outline of her eyes,  
@@ -74,15 +75,17 @@ I tried to capture those confusing words
 That seemed to make sense somehow,  
 But I've forgotten how to draw.  
   
+   
 <hr>  
-  
+   
+    
 You can only be so much there  
 Then never there again  
 To try to isolate the moment,  
 To value it as it should be  
   
 As she looks into your eyes,  
-Her smile — its warm glow  
+Her smile — its warm glow,  
 As he tells you how long it’s been,  
 His voice of lonely sorrow  
   
@@ -107,9 +110,11 @@ These moments are Yours
 That You blessed me to be in them  
 To be as present as I could  
 Within these shadows of heaven.  
-
+  
+    
 <hr>
-
+  
+  
 The moment has passed you by  
 You waited, but it moved on too quickly  
 It's not that life's any worse now,  
