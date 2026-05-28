@@ -42,9 +42,8 @@ Into the depths of the earth.
 Raging, raging.  
 
 My spirit is dead!  
-Die, hope!  
-For my prospect surpasses reach,  
-Beyond the garden's gate lies my salvation.  
+For the prospect surpasses reach,  
+Beyond the garden's gate lies salvation.  
 
 Mortal, my flesh,  
 Ceasing with the refrain of the soul.  
@@ -54,15 +53,12 @@ Its lilies scorch the sky.
 Rage, rage, rage!  
 
 This vaporous life drowns meaning  
-Within the depths of my eyes,  
+Within the depths of its eyes,  
 Blind to the sunset that approaches.  
 
-Reach!
-
-Reach aloft and seize the fading light!
+Reach! Reach aloft and seize the fading light!
 Free my captive being.  
 Rupture these shackles!  
-
 Capture the elusive hope veiled  
 Beneath my heart.  
 
@@ -80,4 +76,4 @@ And the sun no longer is dead.
 I refuse to give way to the flesh,  
 For it will burn along with the mind.  
 I now give way to the Spirit,  
-For Water has quenched the burning flame.  
+For Water has quenched the flame.  
