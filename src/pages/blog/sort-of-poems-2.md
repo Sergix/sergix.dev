@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro  
 title: Assortment of Untitled Sort-of Poems (Part 2)   
 subtitle: "Not so much to consider the philosophy of such things, but to be invited, remembered."  
-summary: ""  
+summary: " Not so much to consider the philosophy of such things, but to be invited, remembered. "  
 published: 27 May 2026  
 last_edit: 27 May 2026  
 ---  
