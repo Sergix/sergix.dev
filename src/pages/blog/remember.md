@@ -4,7 +4,7 @@ title: How could I have remembered anything at all?
 subtitle: NaN
 published: 7 October 2026
 edited: 7 October 2026
-draft: true
+draft: false
 ---
 
 The man who waved, but you never saw him
