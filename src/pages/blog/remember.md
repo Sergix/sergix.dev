@@ -1,11 +1,11 @@
----  
-layout: ../../layouts/BlogPost.astro  
-title: How could I have remembered anything at all?  
-subtitle: NaN  
-published: 7 October 2026  
-edited: 7 October 2026  
-draft: false  
----  
+---
+layout: ../../layouts/BlogPost.astro
+title: How could I have remembered anything at all?
+subtitle: There's rose petals tucked between pages; you don't know how long they've been there, or who placed them. How beautiful it can be to not remember, that there's meaning in knowing some else who must have cared placed it there.
+published: 7 October 2026
+edited: 7 October 2026
+draft: false
+---
   
 The man who waved, but you never saw him  
 He was hoping you would notice, but it was alright with him that you didn't  
